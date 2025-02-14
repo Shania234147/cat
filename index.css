@@ -1,0 +1,81 @@
+.first{
+    margin-top: 25px;
+    margin-bottom:25px ;
+    color: aliceblue;
+
+}
+
+.first nav.a{
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 100;
+    text-decoration: none;
+}
+.second{
+    background-image: url(https://plus.unsplash.com/premium_photo-1670360414483-64e6d9ba9038?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right;
+    height: 100svh;
+}
+
+.second .card{
+    margin-top: 97px;
+  margin-bottom: 31px;
+  margin-left: 375px;
+  margin-right: 100px;
+}
+
+
+.third .col-md-6 .h6{
+    float: right;
+    margin-top: 100px;
+
+}
+.third img{
+    margin-top: 100px;
+}
+.fourth .room img{
+    height: 400px;
+
+}
+.fifth .col-md-6 .h3{
+    margin-top: 10000px;
+}
+.sixth .card{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    height: 300px;
+    border-radius: 0%;
+}
+.sixth{
+    background-color: blue;
+}
+.sixth .card h6{
+    color: rgb(18, 171, 241);
+   margin-top: 50px; 
+   margin-bottom: 50px;
+text-align: center;
+}
+.sixth .card p{
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.sixth .card h5{
+   text-align: center; 
+   margin-top: 50px;
+   margin-bottom: 30px;
+}
+.sixth .p{
+padding-top: 0px;
+}
+.baby .col-md-12 .p{
+    color: white;
+    text-align: center;
+}
+
+.baby .h6{
+    color: white;
+    text-align: center;
+}
